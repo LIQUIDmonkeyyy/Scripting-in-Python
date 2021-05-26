@@ -2,4 +2,4 @@
 Author: Ali Rafiei
 
 Notes:
- - Feel free to use the code without restriction
+ - formfiller2.py is most likely easier to use, feel free to adjust time.sleep to the speed of your computer
